@@ -1,4 +1,3 @@
-# This code is really good
 lnP_plot <- function (in_file, a_title="Write your own title") {
   if (!is.character(a_title)) {
     stop("The title must be a string")
